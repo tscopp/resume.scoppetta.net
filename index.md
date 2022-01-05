@@ -1,7 +1,7 @@
 [**Contact**](https://docs.google.com/forms/d/e/1FAIpQLSe-9TaezZnGlpn2AUmiz1jOV62KyrxAqUTI65bY8Sm-srqSiw/viewform)
 
 # Employment History
-
+---
 ## Senior Operations Engineer :: Zynga
 #### 2021 – Present
 - Responsible for cross project needs assessment and technology selection
