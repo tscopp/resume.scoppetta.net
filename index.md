@@ -29,7 +29,7 @@
 - Deployed, configured, and administered database services (mysql/mariadb)
 - Deployed and maintained centralized monitoring, logging, and alerting infrastructure
 
-## Systems Engineer, Cloud Infrastructure Services :: Cisco Systems
+## Systems Engineer, Cloud Infra :: Cisco Systems
 #### 2014 – 2014
 - Implemented scalable automation solutions for both new and existing applications
 - Managed logging and monitoring infrastructure (Zabbix/ELK)
@@ -42,6 +42,15 @@
 - Responsible for high level capacity planning, vision, and team direction
 - Deployed and maintained centralized monitoring, logging, and alerting infrastructure
 - Deployed and maintained configuration versioning and automatic deployment systems
+
+## Engineering Lead, Virtualization & Automation :: University of California at Berkeley 
+#### 2012 – 2014
+Responsible for team cuture, development process, and hiring
+Responsible for the integration and utilization of DevOps practices and procedures
+Responsible for high level capacity planning, vision, and team direction
+Deployed and maintained centralized monitoring, logging, and alerting infrastructure
+Deployed and maintained configuration versioning and automatic deployment systems
+
 
 ## Technical Resident :: Google 
 #### 2010 – 2012
