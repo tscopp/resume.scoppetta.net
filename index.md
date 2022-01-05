@@ -5,7 +5,7 @@
 ## Senior Operations Engineer :: Zynga
 #### 2021 – Present
 - Responsible for cross project needs assessment and technology selection
-- Responsible for cloud migration (GCP => AWS) of production systems and development tooling
+- Responsible for cloud migration (GCP to AWS) of production systems and development tooling
 - Responsible for creation and maintenance of local development workflow and process
 - Responsible for continuous integration, testing, verification, and deployment
 - Responsible for creation of cross discipline technology focused workflows and processes to increase developer and artist productivity
