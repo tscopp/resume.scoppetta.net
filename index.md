@@ -43,7 +43,7 @@
 - Deployed and maintained centralized monitoring, logging, and alerting infrastructure
 - Deployed and maintained configuration versioning and automatic deployment systems
 
-## Engineering Lead, Virtualization & Automation :: UC Berkeley 
+## Virtualization & Automation Lead :: UC Berkeley 
 #### 2012 – 2014
 Responsible for team cuture, development process, and hiring
 Responsible for the integration and utilization of DevOps practices and procedures
