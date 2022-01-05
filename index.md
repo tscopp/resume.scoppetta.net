@@ -1,15 +1,11 @@
-# Employment History 
-
-## Senior Operations Engineer
-### Zynga :: 2021 – Present
+## Senior Operations Engineer :: Zynga :: 2021 – Present
 - Responsible for cross project needs assessment and technology selection
 - Responsible for cloud migration (GCP => AWS) of production systems and development tooling
 - Responsible for creation and maintenance of local development workflow and process
 - Responsible for continuous integration, testing, verification, and deployment
 - Responsible for creation of cross discipline technology focused workflows and processes to increase developer and artist productivity
 
-## Senior Systems Engineer 
-### Echtra Games :: 2016 – 2021
+## Senior Systems Engineer :: Echtra Games :: 2016 – 2021
 - Responsible for infrastructure planning, automation, deployment, and maintenance
 - Responsible for implementing and maintaining cloud technology (Google Cloud Platform/AWS) to maximize efficiency and reliability while reducing costs
 - Responsible for leveraging cloud technologies (pubsub, bigtable, cloudsql, google storage etc.) to provide resilient and reliable services
@@ -20,8 +16,7 @@
 - Responsible for monitoring (prometheus, alertmanager, grafana) and log aggregation (elasticsearch, fluentd, kibana)
 - Launched and maintained production infrastructure for a live service game
 
-## Linux Systems Engineer
-### University of California Berkeley :: 2014 – 2016
+## Linux Systems Engineer :: University of California Berkeley :: 2014 – 2016
 - Responsible for development, administration and automation of Linux infrastructure both locally and in the cloud (esx/aws/xen)
 - Maintained and Administered JAMF Software JSS for iOS and OSX management
 - Responsible for infrastructure automation and development (puppet/jenkins)
@@ -29,8 +24,7 @@
 - Deployed, configured, and administered database services (mysql/mariadb)
 - Deployed and maintained centralized monitoring, logging, and alerting infrastructure
 
-## Systems Engineer, Cloud Infrastructure Services 
-### Cisco Systems :: 2014 – 2014
+## Systems Engineer, Cloud Infrastructure Services :: Cisco Systems :: 2014 – 2014
 - Implemented scalable automation solutions for both new and existing applications
 - Managed logging and monitoring infrastructure (Zabbix/ELK)
 - Accepted, classified, and prioritized tenant feedback to ensure proper product/team direction
@@ -43,8 +37,7 @@
 - Deployed and maintained centralized monitoring, logging, and alerting infrastructure
 - Deployed and maintained configuration versioning and automatic deployment systems
 
-## Technical Resident 
-### Google :: 2010 – 2012
+## Technical Resident :: Google :: 2010 – 2012
 - Maintained, updated, and streamlined large scale deployments of corporate services including DHCP, DNS, IRC, SAMBA, and TFTP
 - Deployed and maintained core infrastructure code to mitigate network issues at scale
 - Coordinated with various teams to assess and meet infrastructure needs.
