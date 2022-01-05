@@ -52,15 +52,15 @@
 
 # Education
 ## Masters of Science, Information Technology (Unfinished)
-### Rochester Institute of Technology :: Rochester, NY :: 2009 – 2010
+- Rochester Institute of Technology :: Rochester, NY :: 2009 – 2010
 - GPA: 4.0
 
 ## Bachelors of Science, Information Technology
-### Rochester Institute of Technology :: Rochester, NY ::  2006 – 2009
+- Rochester Institute of Technology :: Rochester, NY ::  2006 – 2009
 - Graduated with high honors — March 1st, 2009
 - GPA: 3.77, Professional GPA: 3.8
 
 ## Associates, Computer Information Systems
-### Alfred State College :: Alfred, NY ::  2003 – 2005
+- Alfred State College :: Alfred, NY ::  2003 – 2005
 - Graduated May 2006
 - GPA: 3.65
