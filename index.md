@@ -1,4 +1,4 @@
-[**Contact**](https://docs.google.com/forms/d/e/1FAIpQLSe-9TaezZnGlpn2AUmiz1jOV62KyrxAqUTI65bY8Sm-srqSiw/viewform)  |  [Github](https://github.com/tscopp)
+[Contact](https://docs.google.com/forms/d/e/1FAIpQLSe-9TaezZnGlpn2AUmiz1jOV62KyrxAqUTI65bY8Sm-srqSiw/viewform) | [Github](https://github.com/tscopp) | [LinkedIn](https://www.linkedin.com/in/timothy-scoppetta-92a5879/)
 
 # Employment History
 ---
