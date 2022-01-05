@@ -37,21 +37,15 @@
 - Managed logging and monitoring infrastructure (Zabbix/ELK)
 - Accepted, classified, and prioritized tenant feedback to ensure proper product/team direction
 - Coordinated across multiple product teams to orchestrate large scale cloud initiatives
-- Engineering Lead, Virtualization & Automation
-- University of California at Berkeley :: Berkeley, CA :: 2012 – 2014
-- Responsible for team cuture, development process, and hiring
-- Responsible for the integration and utilization of DevOps practices and procedures
-- Responsible for high level capacity planning, vision, and team direction
-- Deployed and maintained centralized monitoring, logging, and alerting infrastructure
-- Deployed and maintained configuration versioning and automatic deployment systems
 
-## Virtualization & Automation Lead :: UC Berkeley 
+## Lead, Virtualization & Automation :: UC Berkeley 
 #### 2012 – 2014
+- Responsible for creation and maintenance of EECS Cluster (OpenStack)
 - Responsible for team cuture, development process, and hiring
 - Responsible for the integration and utilization of DevOps practices and procedures
-- Responsible for high level capacity planning, vision, and team direction
-- Deployed and maintained centralized monitoring, logging, and alerting infrastructure
-- Deployed and maintained configuration versioning and automatic deployment systems
+- Responsible for high level capacity planning and direction
+- Deployed and maintained centralized monitoring (zabbix), logging (graylog), and alerting infrastructure
+- Deployed and maintained configuration versioning (git) and automatic deployment (puppet) systems
 
 ## Technical Resident :: Google 
 #### 2010 – 2012
