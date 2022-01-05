@@ -1,3 +1,5 @@
 theme: jekyll-theme-hacker
 title: Timothy Scoppetta
 description: Resume & Employment Info
+github:
+  is_project_page: false
