@@ -63,12 +63,12 @@
 # Education
 ## Information Architecture & Systems :: Rochester Institute of Technology
 ### Masters of Science, Unfinished - Pending thesis
-- GPA: 4.0
+GPA: 4.0
 
 ## Information Technology :: Rochester Institute of Technology
 ### Bachelors of Science, Graduated with Honors March 2009
-- GPA: 3.77, Professional GPA: 3.8
+GPA: 3.77, Professional GPA: 3.8
 
 ## Computer Information Systems :: Alfred State College
 ### Associates, Graduated May 2006
-- GPA: 3.65
+GPA: 3.65
