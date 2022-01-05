@@ -1,7 +1,7 @@
 
 # Employment History 
 ## Senior Operations Engineer
-###Zynga :: 2021 – Present
+### Zynga :: 2021 – Present
 - Responsible for cross project needs assessment and technology selection
 - Responsible for cloud migration (GCP => AWS) of production systems and development tooling
 - Responsible for creation and maintenance of local development workflow and process
