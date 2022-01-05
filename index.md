@@ -20,7 +20,7 @@
 - Responsible for monitoring (prometheus, alertmanager, grafana) and log aggregation (elasticsearch, fluentd, kibana)
 - Launched and maintained production infrastructure for a live service game
 
-## Linux Systems Engineer :: University of California Berkeley
+## Linux Systems Engineer :: UC Berkeley
 #### 2014 – 2016
 - Responsible for development, administration and automation of Linux infrastructure both locally and in the cloud (esx/aws/xen)
 - Maintained and Administered JAMF Software JSS for iOS and OSX management
@@ -43,7 +43,7 @@
 - Deployed and maintained centralized monitoring, logging, and alerting infrastructure
 - Deployed and maintained configuration versioning and automatic deployment systems
 
-## Engineering Lead, Virtualization & Automation :: University of California at Berkeley 
+## Engineering Lead, Virtualization & Automation :: UC Berkeley 
 #### 2012 – 2014
 Responsible for team cuture, development process, and hiring
 Responsible for the integration and utilization of DevOps practices and procedures
