@@ -60,7 +60,6 @@ GPA: 4.0
 ## Information Technology :: RIT
 ### Bachelors of Science, Graduated with Honors March 2009
 GPA: 3.77
-Professional GPA: 3.8
 
 ## Computer Information Systems :: Alfred State
 ### Associates, Graduated May 2006
